@@ -1,7 +1,7 @@
 EXPERIMENT-03-INTERFACING-DIGITAL-SENSOR-WITH-EDGE-DEVELOPMENT-BOARD-
-NAME: Sivaramakrishnan B
+NAME: Sowmya V
 DEPARTMENT: CSE(IoT)
-ROLL NO: 212222110044
+ROLL NO: 212222110045
 DATE OF EXPERIMENT: 06-03-25
 AIM:
 To interface a DHT22 temperature and humidity sensor with the Raspberry Pi Pico and display the sensor readings using MicroPython.
